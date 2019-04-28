@@ -78,6 +78,15 @@ Improves financial inclusion of households and small businesses. | Exacerbation 
 Source: Amadou N. R. et al (2018), page 26.
 
 Consequently, police makers are being encouraged by the International Monetary Fund and the World Bank Group (2018)[ One example is the Bali FinTech Agenda launched by the International Monetary Fund and the World Bank Group in October 2018, “a set of 12 policy elements aimed at helping member countries to harness the benefits and opportunities of rapid advances in financial technology that are transforming the provision of banking services, while at the same time managing the inherent risks.” IMF Press release n. [18/388](https://www.imf.org/en/News/Articles/2018/10/11/pr18388-the-bali-FinTech-agenda) to take advantages of the FinTech industry and blockchain technology as a hole, and seriously consider FinTech as an opportunity to foster economic growth and development. (Amadou N. R. et al, 2018) The broadly steps to be taken are specified below:
+> First, policymakers need to fill the large existing infrastructure gap in the region, starting with electricity and internet services. Second, there is a need to address the perennial race between fast-moving innovation and the slower pace of regulation. Third, policymakers should look beyond the potential benefits of FinTech in just the financial sector to consider the possible impact on employment and productivity, the digital economy, and more broadly, the scope for much needed structural transformation. (Amadou N. R. et al, 2018)
+
+The expansion of blockchain and digital currency in the government arena is, indeed, intense and worldwide. However, the knowledge and confidence are still relevant barrier for their full adoption. An interesting approach is, then, the comparison with their counterparts.
+
+## 3 Review on the pros and cons of the Central Bank Digital Currency; 
+
+Griffoli (2018) summarize the role of money and the consequently goals for the Central Bank in the figure below:
+
+![Cave](https://github.com/csantoslages/funcaoBC/blob/master/central%20bank.png)
 
 The Central Bank should, then, design and regulate money, what includes the private ones, in order to satisfy the user needs and social criteria. (Griffoli, 2018)
 
@@ -93,10 +102,12 @@ Finally, three macro goals are desirable:
 
 Griffoli (2018) scored each of these criterion to enable comparison between the money providers:
 
+![cave](https://github.com/csantoslages/comparacaomoeda/blob/master/comparacao%20moedas.png)
 Source: Griffoli (2018), page 38.
 
 Clearly, cryptocurrencies are those which less satisfy the central bank goals. On the other hand, CDBC seems to provide better service for individual needs and social purposes. WEF (2019) enumerates the Pros and Cons of CDBS:
 
+![cave](https://github.com/csantoslages/proscon/blob/master/proscon.png)
 Source:  WEF (2019), page 9
 
 ## Conclusion
